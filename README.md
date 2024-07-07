@@ -1,6 +1,7 @@
 ## Generate a random user
 
 ![image](https://github.com/ephraimdjeket/RandomUser/assets/45997915/69801e64-faea-41ae-8dff-5be1e7755b44)
+
 Live site: https://generateusers.netlify.app/
 
 API from: https://randomuser.me/documentation
